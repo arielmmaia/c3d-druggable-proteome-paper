@@ -1,0 +1,4 @@
+cohort,data,model,n,events,HR_perSD,CI_low,CI_high,p
+TCGA-LUAD,mRNA,proliferation-adjusted,497,~180,2.01,1.19,3.4,0.01
+CPTAC-LUAD,protein,univariable,107,24,1.4,0.94,2.09,0.096
+CPTAC-LUAD,protein,proliferation-adjusted,107,24,1.33,0.86,2.05,0.201

@@ -1,0 +1,39 @@
+# --- Raw & large mass-spec data (deposited at PRIDE PXD066407, not tracked) ---
+*.raw
+*.mzML
+*.mzXML
+*.d/
+*.wiff
+*.wiff.scan
+
+# --- Large FragPipe/search intermediates (regenerable; see metadata/) ---
+*.pepindex
+*.pepXML
+*.pin
+*.tsv.gz
+combined_ion.tsv
+psm.tsv
+ion.tsv
+peptide.tsv
+*_uncalibrated.mgf
+*.mgf
+
+# --- FASTA databases (large; described in data/reference_database/) ---
+*.fasta
+*.fasta.fas
+*.fas
+
+# --- Python / analysis caches ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+*.egg-info/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

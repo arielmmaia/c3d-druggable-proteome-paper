@@ -1,0 +1,73 @@
+gene,uniprot,log2FC_2Dvs3D,padj,dir_3D,modalities,approved,drug_count,max_phase,luad_score,description,lung_ca_score,chembl_sterol_axis,druggable_any
+NDRG1,Q92597,-2.04,0.00117,up_in_3D,"AB,PR",False,0,,,Protein NDRG1,0.392,,False
+ALDH1L1,O75891,-1.95,0.000241,up_in_3D,"PR,SM",False,0,,,Cytosolic 10-formyltetrahydrofolate dehydrogenase,,,False
+GPX1,P07203,-1.85,0.000232,up_in_3D,"PR,SM",False,0,,,Glutathione peroxidase 1,,,False
+PPAT,Q06203,-1.66,0.000659,up_in_3D,"PR,SM",True,3,4.0,,Amidophosphoribosyltransferase,,,True
+CISD1,Q9NZ45,-1.57,0.000495,up_in_3D,"AB,PR,SM",False,0,,,CDGSH iron-sulfur domain-containing protein 1,,,False
+CAPS,Q13938,-1.53,0.000692,up_in_3D,"AB,SM",False,0,,,Calcyphosin,,,False
+GSDMB,Q8TAX9,-1.34,0.00645,up_in_3D,"AB,PR",False,0,,,Gasdermin-B,,,False
+TESC,Q96BS2,-1.3,0.000536,up_in_3D,"AB,PR",False,0,,,Calcineurin B homologous protein 3,,,False
+HGD,Q93099,-1.28,0.00252,up_in_3D,PR,False,0,,,"Homogentisate 1,2-dioxygenase",,,False
+SLC12A2,P55011,-1.27,0.000241,up_in_3D,"AB,PR,SM",False,0,,,Solute carrier family 12 member 2,,,False
+GLRX,P35754,-1.25,0.000651,up_in_3D,"PR,SM",False,0,,,Glutaredoxin-1,,,False
+POLD1,P28340,-1.22,0.000679,up_in_3D,"PR,SM",True,7,4.0,,DNA polymerase delta catalytic subunit,0.69,,True
+NQO1,P15559,-1.22,0.000469,up_in_3D,"PR,SM",False,1,3.0,,NAD(P)H dehydrogenase [quinone] 1,0.111,,True
+GBP2,P32456,-1.18,0.000651,up_in_3D,"PR,SM",False,0,,,Guanylate-binding protein 2,0.079,,False
+FLYWCH2,Q96CP2,-1.14,0.00426,up_in_3D,PR,False,0,,,FLYWCH family member 2,,,False
+ANK3,Q12955,-1.14,0.000241,up_in_3D,"AB,PR",False,0,,,Ankyrin-3,,,False
+SCRN2,Q96FV2,-1.12,0.000504,up_in_3D,PR,False,0,,,Secernin-2,0.007,,False
+PROM1,O43490,-1.12,0.00381,up_in_3D,"AB,PR",False,0,,,Prominin-1,,,False
+MPI,P34949,-1.07,0.000715,up_in_3D,"AB,PR,SM",False,0,,,Mannose-6-phosphate isomerase,,,False
+MUC5AC,P98088,-1.06,0.000536,up_in_3D,"AB,OC,SM",False,3,3.0,,Mucin-5AC,0.196,,True
+ETV6,P41212,-1.04,0.00568,up_in_3D,"AB,PR,SM",False,0,,,Transcription factor ETV6,,,False
+ABCC3,O15438,-1.04,0.0016,up_in_3D,"AB,PR,SM",False,0,,,ATP-binding cassette sub-family C member 3,0.063,,False
+ELP1,O95163,-1.03,0.00339,up_in_3D,"PR,SM",False,0,,,Elongator complex protein 1,,,False
+GBE1,Q04446,-1.0,0.00183,up_in_3D,"PR,SM",False,0,,,"1,4-alpha-glucan-branching enzyme",,,False
+HSPE1,P61604,1.01,0.000822,down_in_3D,"PR,SM",False,0,,,"10 kDa heat shock protein, mitochondrial",0.054,,False
+SQLE,Q14534,1.01,0.00189,down_in_3D,"AB,PR,SM",False,0,,,Squalene monooxygenase,,"terbinafine (approved, SQLE inhibitor)",True
+MCU,Q8NE86,1.01,0.0013,down_in_3D,"AB,PR,SM",False,0,,,"Calcium uniporter protein, mitochondrial",,,False
+ST14,Q9Y5Y6,1.02,0.00321,down_in_3D,"AB,PR,SM",False,0,,,Suppressor of tumorigenicity 14 protein,,,False
+IL1RN,P18510,1.03,0.00617,down_in_3D,"AB,PR,SM",False,0,,,Interleukin-1 receptor antagonist protein,,,False
+DHCR7,Q9UBM7,1.04,0.0099,down_in_3D,"AB,PR,SM",False,0,,,7-dehydrocholesterol reductase,,known enzyme target,True
+SLC7A5,Q01650,1.05,0.000848,down_in_3D,"AB,PR,SM",False,0,,,Large neutral amino acids transporter small subunit 1,0.106,,False
+CD47,Q08722,1.05,0.00165,down_in_3D,"AB,OC,PR",False,2,3.0,,Leukocyte surface antigen CD47,,,True
+EGFR,P00533,1.05,0.000651,down_in_3D,"AB,OC,PR,SM",True,82,4.0,,Epidermal growth factor receptor,0.853,,True
+H2BC11,P06899,1.05,0.00661,down_in_3D,"AB,PR,SM",False,0,,,Histone H2B type 1-J,,,False
+SCD,O00767,1.05,0.00993,down_in_3D,"AB,PR,SM",False,0,,,Stearoyl-CoA desaturase,0.104,"SCD1 inhibitors (clinical/preclinical, 2402 bioactivities)",True
+ITGA2,P17301,1.08,0.00188,down_in_3D,"AB,PR,SM",False,1,2.0,,Integrin alpha-2,,,True
+GYG1,P46976,1.08,0.000536,down_in_3D,"AB,PR,SM",False,0,,,Glycogenin-1,,,False
+GALNT1,Q10472,1.08,0.00397,down_in_3D,"AB,PR",False,0,,,Polypeptide N-acetylgalactosaminyltransferase 1,,,False
+SUN1,O94901,1.1,0.00445,down_in_3D,"AB,PR",False,0,,,SUN domain-containing protein 1,,,False
+GALNT5,Q7Z7M9,1.11,0.00174,down_in_3D,"AB,PR",False,0,,,Polypeptide N-acetylgalactosaminyltransferase 5,0.023,,False
+KRT17,Q04695,1.11,0.000356,down_in_3D,"AB,PR",False,0,,,"Keratin, type I cytoskeletal 17",,,False
+ATP1B3,P54709,1.13,0.00108,down_in_3D,"AB,PR,SM",False,6,4.0,,Sodium/potassium-transporting ATPase subunit beta-3,,,True
+TACSTD2,P09758,1.13,0.000789,down_in_3D,"AB,OC,PR",False,2,4.0,,Tumor-associated calcium signal transducer 2,0.548,,True
+NCEH1,Q6PIU2,1.15,0.00111,down_in_3D,"AB,PR,SM",False,0,,,Neutral cholesterol ester hydrolase 1,,NCEH1 inhibitors (preclinical),True
+H2AC4,P04908,1.15,0.00872,down_in_3D,,False,0,,,Histone H2A type 1-B/E,0.008,,False
+ERAL1,O75616,1.17,0.00134,down_in_3D,"AB,PR,SM",False,0,,,"GTPase Era, mitochondrial",,,False
+CAVIN1,Q6NZI2,1.17,0.00322,down_in_3D,"AB,PR",False,0,,,Caveolae-associated protein 1,0.061,,False
+ONECUT3,O60422,1.17,0.00381,down_in_3D,,False,0,,,One cut domain family member 3,0.009,,False
+TOP1,P11387,1.19,0.00339,down_in_3D,"OC,PR,SM",True,26,4.0,,DNA topoisomerase 1,0.58,,True
+LAMB3,Q13751,1.2,0.000848,down_in_3D,"AB,OC,PR",False,1,4.0,,Laminin subunit beta-3,,,True
+FA2H,Q7L5A8,1.2,0.000549,down_in_3D,"AB,PR",False,0,,,Fatty acid 2-hydroxylase,,,False
+MTHFD2,P13995,1.22,0.00159,down_in_3D,"PR,SM",False,0,,,"Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial",0.1,,False
+ELOVL7,A1L3X0,1.23,0.00147,down_in_3D,"AB,PR,SM",False,0,,,Very long chain fatty acid elongase 7,,ELOVL inhibitors (preclinical),True
+TMEM33,P57088,1.23,0.00276,down_in_3D,"AB,PR",False,0,,,Transmembrane protein 33,0.01,,False
+IREB2,P48200,1.24,0.000241,down_in_3D,"PR,SM",False,0,,,Iron-responsive element-binding protein 2,0.194,,False
+MET,P08581,1.25,0.0067,down_in_3D,"AB,OC,PR,SM",True,38,4.0,,Hepatocyte growth factor receptor,0.724,,True
+PVR,P15151,1.26,0.00277,down_in_3D,"AB,PR,SM",False,0,,,Poliovirus receptor,0.098,,False
+SDHAF2,Q9NX18,1.27,0.006,down_in_3D,"PR,SM",False,0,,,"Succinate dehydrogenase assembly factor 2, mitochondrial",0.293,,False
+FDFT1,P37268,1.31,0.00251,down_in_3D,"AB,PR,SM",False,1,3.0,,Squalene synthase,,lapaquistat/squalene-synthase inhibitor (Ph3),True
+KRT23,Q9C075,1.33,0.000414,down_in_3D,,False,0,,,"Keratin, type I cytoskeletal 23",,,False
+SLC2A1,P11166,1.35,0.000536,down_in_3D,"AB,PR,SM",False,0,,,"Solute carrier family 2, facilitated glucose transporter member 1",,,False
+LAMC2,Q13753,1.37,0.000659,down_in_3D,"AB,OC,PR",False,1,4.0,,Laminin subunit gamma-2,,,True
+S100A14,Q9HCY8,1.44,0.00284,down_in_3D,"AB,PR",False,0,,,Protein S100-A14,0.085,,False
+CYP24A1,Q07973,1.49,0.000356,down_in_3D,"PR,SM",False,0,,,"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial",,,False
+RHOF,Q9HBH0,1.51,0.000848,down_in_3D,"AB,PR",False,0,,,Rho-related GTP-binding protein RhoF,,,False
+CXCL5,P42830,1.54,0.00159,down_in_3D,AB,False,0,,,C-X-C motif chemokine 5,0.088,,False
+EPHA2,P29317,1.54,0.000241,down_in_3D,"AB,PR,SM",True,3,4.0,,Ephrin type-A receptor 2,0.41,,True
+TFRC,P02786,1.55,0.000241,down_in_3D,"AB,OC,PR,SM",False,3,4.0,,Transferrin receptor protein 1,0.223,,True
+H3C15,Q71DI3,1.58,0.00312,down_in_3D,,False,0,,,Histone H3.2,,,False
+LAMA3,Q16787,1.59,0.000241,down_in_3D,"AB,OC,PR",False,1,4.0,,Laminin subunit alpha-3,,,True
+MSMO1,Q15800,1.82,0.00183,down_in_3D,"AB,PR",False,0,,,Methylsterol monooxygenase 1,,known enzyme target,True
+CD9,P21926,2.0,0.00108,down_in_3D,"AB,PR,SM",False,0,,,CD9 antigen,,,False

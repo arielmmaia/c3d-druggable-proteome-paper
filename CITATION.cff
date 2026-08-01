@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated preprint and dataset."
+title: "3D spheroid model context reprograms the druggable proteome axis in lung adenocarcinoma cells"
+abstract: >-
+  Reprocessing of Calu-3 lung adenocarcinoma proteomics comparing 2D monolayer
+  and 3D Matrigel-embedded spheroid culture, identifying a coordinated, druggable,
+  prognostic sterol-biosynthesis / surface-receptor / adhesion expression axis
+  that is switched off in 3D. Repository holds analysis code, derived data tables,
+  metadata and reporting-standards documentation.
+type: software
+authors:
+  - family-names: Maia
+    given-names: Ariel M.
+    affiliation: "CPBMF, PUCRS, Porto Alegre, RS, Brazil"
+  - family-names: Machado
+    given-names: Pablo
+    affiliation: "CPBMF, PUCRS, Porto Alegre, RS, Brazil"
+  - family-names: Basso
+    given-names: Luiz Augusto
+    affiliation: "CPBMF, PUCRS, Porto Alegre, RS, Brazil"
+  - family-names: Bizarro
+    given-names: Cristian Valim
+    affiliation: "CPBMF, PUCRS, Porto Alegre, RS, Brazil"
+license: MIT
+repository-code: "https://github.com/arielmmaia/c3d-druggable-proteome-paper"
+keywords:
+  - proteomics
+  - lung adenocarcinoma
+  - 3D cell culture
+  - spheroid
+  - drug targets
+  - spatial context
+identifiers:
+  - type: doi
+    value: 10.1101/2025.08.28.672967
+    description: "bioRxiv preprint (original three-condition analysis)"
+  - type: other
+    value: "PXD066407"
+    description: "ProteomeXchange / PRIDE dataset accession"
+preferred-citation:
+  type: article
+  title: "3D spheroid model context reprograms the druggable proteome axis in lung adenocarcinoma cells"
+  authors:
+    - family-names: Maia
+      given-names: Ariel M.
+    - family-names: Machado
+      given-names: Pablo
+    - family-names: Basso
+      given-names: Luiz Augusto
+    - family-names: Bizarro
+      given-names: Cristian Valim
+  year: 2025
+  doi: 10.1101/2025.08.28.672967
+  url: "https://doi.org/10.1101/2025.08.28.672967"

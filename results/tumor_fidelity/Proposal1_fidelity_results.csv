@@ -1,0 +1,7 @@
+test,effect,significance,n,conclusion
+Genome-wide Pearson r (3D-vs-2D axis vs tumor-vs-normal axis),-0.097,9.0e-09,"3,498 genes",2D leans tumor-like
+Per-sample tumor-likeness (all sig genes): 2D vs 3D,"2D=0.051, 3D=0.044",0.005,singscore,2D more tumor-like
+Per-sample tumor-likeness (excl. proliferation),"2D=0.041, 3D=0.034",0.005,singscore,2D more tumor-like
+GSEA Tumor-UP program vs culture ranking,NES=-1.50,FDR=0.002,286 genes,enriched at 2D end
+GSEA Tumor-DOWN program vs culture ranking,NES=+1.07,FDR=0.338,107 genes,n.s.
+Directional concordance on 72 DEPs,33/65 agree,51%,65 DEPs w/ tumor data,no better than chance
