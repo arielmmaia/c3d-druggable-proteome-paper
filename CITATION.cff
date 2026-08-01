@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the associated preprint and dataset."
-title: "3D spheroid model context reprograms the druggable proteome axis in lung adenocarcinoma cells"
+title: "Same genome, different targets: transition from 2D to 3D culture silences a druggable proteome axis in a lung adenocarcinoma cell model"
 abstract: >-
   Reprocessing of Calu-3 lung adenocarcinoma proteomics comparing 2D monolayer
   and 3D Matrigel-embedded spheroid culture, identifying a coordinated, druggable,
@@ -39,7 +39,7 @@ identifiers:
     description: "ProteomeXchange / PRIDE dataset accession"
 preferred-citation:
   type: article
-  title: "3D spheroid model context reprograms the druggable proteome axis in lung adenocarcinoma cells"
+  title: "Same genome, different targets: transition from 2D to 3D culture silences a druggable proteome axis in a lung adenocarcinoma cell model"
   authors:
     - family-names: Maia
       given-names: Ariel M.

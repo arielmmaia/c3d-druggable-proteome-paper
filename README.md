@@ -1,9 +1,10 @@
-# 3D spheroid context reprograms the druggable proteome axis in lung adenocarcinoma cells
+# Same genome, different targets: transition from 2D to 3D culture silences a druggable proteome axis in a lung adenocarcinoma cell model
 
 Analysis code, derived data and reporting-standards documentation for the study:
 
-> **Maia AM, Machado P, Basso LA, Bizarro CV.** *3D spheroid model context
-> reprograms the druggable proteome axis in lung adenocarcinoma cells.*
+> **Maia AM, Machado P, Basso LA, Bizarro CV.** *Same genome, different
+> targets: transition from 2D to 3D culture silences a druggable proteome
+> axis in a lung adenocarcinoma cell model.*
 > Center for Research in Molecular and Functional Biology (CPBMF), PUCRS, Porto
 > Alegre, Brazil.
 
